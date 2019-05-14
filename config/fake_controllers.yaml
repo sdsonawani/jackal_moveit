@@ -1,0 +1,9 @@
+controller_list:
+  - name: fake_hulk_controller
+    joints:
+      - joint_6
+      - joint_7
+      - joint_8
+      - joint_9
+      - joint_10
+      - joint_11
