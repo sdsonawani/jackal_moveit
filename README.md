@@ -2,4 +2,8 @@
 
 This ros-package is generated using moveit plugin for manipulation of robotic arms.
 Visualization of plugin working is shown below:
-<a href="https://www.dropbox.com/s/0c3x9tfv84kzuk4/ezgif.com-video-to-gif%20%281%29.gif?dl=0"><img src="https://www.dropbox.com/s/0c3x9tfv84kzuk4/ezgif.com-video-to-gif%20%281%29.gif?dl=0" title="Moveit plugin in rviz"/></a>
+
+<a href="https://imgflip.com/gif/30yn8i"><img src="https://i.imgflip.com/30yn8i.gif" title="Moveit in rviz"/></a>
+
+## Important
+> You need to have jackal_hulk package in order to use this pacakge in ros-gazebo simulation
